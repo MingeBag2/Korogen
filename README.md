@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Platapuy
 - 👀 I’m interested in ...
-- Computer science and gaming
+- Computer science, gaming and cats
 - 🌱 I’m currently learning ...
-- Computer Science
+- Computer Science (not profestionally)
 - 📫 How to reach me ...
 - Platapuy@duck.com
 
